@@ -10,7 +10,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>CXDToDo.iOS</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
-    <AssemblyName>CXDToDoiOS</AssemblyName>
+    <AssemblyName>CXDToDo.iOS</AssemblyName>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
   </PropertyGroup>
