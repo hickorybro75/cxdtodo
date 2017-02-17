@@ -7,6 +7,12 @@ using Xamarin.Forms;
 
 namespace CXDToDo
 {
+
+    public interface IDatabaseConnection
+    {
+        SQLite.SQLiteConnection DBConnection();
+    }
+
     public partial class App : Application
     {
         public App()

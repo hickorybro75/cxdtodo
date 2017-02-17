@@ -3,11 +3,9 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:CXDToDo"
              x:Class="CXDToDo.MainPage">
-  <StackLayout>
-    <Image Source="https://fishingtour.blob.core.windows.net/fishingtoursharedcatches/tn_ef9f7dfc-ca70-49db-8e3e-fe47707db240.jpg" />
 
-    <Label Text="Welcome to Xamarin Forms!"
+  <Label Text="Welcome to Xamarin Forms!"
            VerticalOptions="Center"
            HorizontalOptions="Center" />
-  </StackLayout>
+
 </ContentPage>
